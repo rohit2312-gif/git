@@ -6,8 +6,8 @@ void main() {
         home: Scaffold(
           backgroundColor: Colors.yellowAccent,
           appBar: AppBar(
-            title: Text('i made some changes here'),
-            backgroundColor: Colors.red[700],
+            title: Text('I LOVE THIS GAME'),
+            backgroundColor: Colors.red[900],
 
           ),
 
